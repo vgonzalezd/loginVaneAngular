@@ -1,4 +1,6 @@
 {
+  //adicioné la linea include para nuevos estilos
+  "include": ["node_modules/angular-bootstrap-md/**/*.ts",  "src/**/*.ts"],
   "compileOnSave": false,
   "compilerOptions": {
     "outDir": "./dist/out-tsc",
